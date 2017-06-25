@@ -16,8 +16,9 @@ body {
 .navbar-fixed-top ul li a, .navbar-brand {
   color: black;
 }
-.navbar-fixed-top ul li a:hover {
-}
+/*.navbar-fixed-top ul li a:hover {
+}*/
+
 
 /**FIN NAVBAR/
 /*VIDEO*/
@@ -120,4 +121,5 @@ h2 {
 
 .image:hover {
   opacity: 0.3;
+
 }
